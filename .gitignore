@@ -1,0 +1,12 @@
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# VS Code
+.vscode/
